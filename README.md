@@ -2,7 +2,8 @@
 <p align="center">I'm a MERN stack web developer with high quality frontend skills. I really enjoy making fast,scalable and interactive webapps which is easy to use. I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new. Some of my key skills include - React, NodeJs, MongoDB, Express, NextJs, GSAP, JavaScript </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noobcode-69&label=Profile%20views&color=0e75b6&style=flat" alt="noobcode-69" /> </p>
-- 📝 I regularly write articles on [https://portfolio-noobcode-69.vercel.app/](https://portfolio-noobcode-69.vercel.app/)
+
+-  📝 I regularly write articles on [link](https://portfolio-noobcode-69.vercel.app/)
 - 💬 Ask me about **React , Javascript**
 - 📫 How to reach me **armanyppph@gmail.com**
 
