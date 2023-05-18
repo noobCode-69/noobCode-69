@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noobcode-69&label=Profile%20views&color=0e75b6&style=flat" alt="noobcode-69" /> </p>
 
--  📝 I regularly write articles on [link](https://portfolio-noobcode-69.vercel.app/)
 - 💬 Ask me about **React , Javascript**
 - 📫 How to reach me **armanyppph@gmail.com**
 
