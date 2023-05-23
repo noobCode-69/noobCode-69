@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with PHP<br>🌱 I’m currently learning AWS<br>💬 Ask me about JavaScript<br>
+🤝 I’m currently learning  PHP<br>💬 Ask me about JavaScript<br>
 
 
 ## 🌐 Socials:
