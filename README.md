@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m currently learning  PHP<br>💬 Ask me about JavaScript<br>
+💬 Ask me about JavaScript<br>
 
 
 ## 🌐 Socials:
