@@ -3,8 +3,8 @@
 I am a:
 
 - Open Source Contributor: [Strapi](https://github.com/strapi/strapi) with over 55k stars, [Mirrorful](https://github.com/mirrorful/mirrorful/) with 1500+ stars.
-- Coder with primary experience in JS/TS related technologies (React , Redux , Node ) 
-- Experience working with PHP and OOP's
+- Programmer with primary experience in JS/TS related technologies (React , Redux , Node ) and secondary experience with PHP and OOP's
+- Coder with strong [Data Structure and Algorithms skills](https://leetcode.com/so_hell).  
 #### Contact Information
 
 - Email: `armanyppph@gmail.com`
