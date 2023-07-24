@@ -13,7 +13,7 @@ I am a:
 #### Projects
 
 - [ReactPen](https://github.com/noobCode-69/reactPen), an in browser code transpiler and bundler.
--  [LUSIP](https://github.com/noobCode-69/lusip_frontend/) , a registration portal for student and techers.
+-  [LUSIP](https://github.com/noobCode-69/lusip_frontend/) , a registration portal for student and teachers.
 
 
 ⚡ Fun fact: I love playing Table Tennis.
