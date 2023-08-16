@@ -3,7 +3,7 @@
 I am a:
 
 - Open Source Contributor: [Strapi](https://github.com/strapi/strapi) with over 55k stars, [Mirrorful](https://github.com/mirrorful/mirrorful/) with 1500+ stars.
-- Programmer with primary experience in JS/TS related technologies (React , Redux , Node ) and secondary experience with PHP and OOP's
+- Programmer with experience in JS/TS related technologies 
 - Coder with strong [Data Structure and Algorithms skills](https://leetcode.com/so_hell).  
 #### Contact Information
 
