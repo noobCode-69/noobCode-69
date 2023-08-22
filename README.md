@@ -6,7 +6,7 @@ I am a:
 - Programmer with experience in JS/TS related technologies 
 - Coder with strong [Data Structure and Algorithms skills](https://leetcode.com/so_hell).  
 - Currently I am working as a Software Enginner @Tryp
-- 
+
 #### Contact Information
 
 - Email: `armanyppph@gmail.com`
