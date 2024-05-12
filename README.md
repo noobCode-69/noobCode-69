@@ -5,7 +5,7 @@ I am a:
 - Open Source Contributor: [Strapi](https://github.com/strapi/strapi) with over 55k stars, [Mirrorful](https://github.com/mirrorful/mirrorful/) with 1500+ stars.
 - Programmer with experience in JS/TS related technologies 
 - Coder with strong [Data Structure and Algorithms skills](https://leetcode.com/so_hell).  
-- Currently I am working remotely @Tryp (Denmark based startup) as a Software Enginner 
+- Currently I am working as SDE1 at @Hirequotient 
 #### Contact Information
 
 - Email: `armanyppph@gmail.com`
