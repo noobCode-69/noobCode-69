@@ -6,7 +6,6 @@ I am a:
 - Programmer with experience in JS/TS related technologies 
 - Coder with strong [Data Structure and Algorithms skills](https://leetcode.com/so_hell).
 - Previously worked for @Tryp (Denmark based startup) as a Frontend Developer 
-- Currently I am working as SDE1 at @Hirequotient 
 #### Contact Information
 
 - Email: `armanyppph@gmail.com`
