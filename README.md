@@ -17,6 +17,4 @@ I am a:
 -  [LUSIP](https://github.com/noobCode-69/lusip_frontend/) , a registration portal for student and teachers.
 
 
-⚡ Fun fact: I love playing Table Tennis.
 
-All my social links are in one place... [digital resume](https://digital-resume-rho.vercel.app/)
