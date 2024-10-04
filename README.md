@@ -9,7 +9,7 @@ I am a:
 #### Contact Information
 
 - Email: `armanyppph@gmail.com`
-- LinkedIn: [@so-helll](https://www.linkedin.com/in/so-helll/)
+
 
 #### Projects
 
